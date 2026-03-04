@@ -22,6 +22,12 @@ O layout se adapta para:
 - Tablet
 - Mobile
 
+## 🌐 Acesse o Projeto
+
+Você pode visualizar o projeto através do link abaixo:
+
+🔗 [Clique aqui para acessar](https://matheusdevlog.github.io/bmi-calculator-responsive/)
+
 ## 📚 Aprendizados
 
 Neste projeto pratiquei:
