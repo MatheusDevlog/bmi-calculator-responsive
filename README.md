@@ -35,3 +35,19 @@ Neste projeto pratiquei:
 - Estruturação de layout com Flexbox
 - Uso de media queries
 - Organização de código front-end
+
+---
+
+## 👤 Autor
+
+**Matheus Santos**
+
+* LinkedIn: https://www.linkedin.com/in/matheusdevsantos/
+* GitHub: https://github.com/MatheusDevlog
+* Email: [contato.matheusdevlog@gmail.com](mailto:contato.matheusdevlog@gmail.com)
+
+---
+
+## 📚 Observação
+
+Este projeto foi desenvolvido para fins de estudo e portfólio.
